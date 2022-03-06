@@ -1,8 +1,8 @@
 
 
->> Clone/unzip the project into the required project folder
->> Run npm install to install all the dependencies 
->> Run npm start to launch the application.
+## Clone/unzip the project into the required project folder
+## Run npm install to install all the dependencies 
+## Run npm start to launch the application.
 
 
 
